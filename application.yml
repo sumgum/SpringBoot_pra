@@ -1,0 +1,9 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: sumkakkyo@gmail.com
+    password: gappleapple1
+    properties:
+      mail.smtp.auth: true
+      mail.smtp.starttls.enable: true
