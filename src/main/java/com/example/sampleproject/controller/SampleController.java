@@ -6,8 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.mail.MailSender;
 import org.springframework.mail.SimpleMailMessage;
-// import org.springframework.stereotype.Controller;
-// import org.springframework.web.bind.annotation.RequestMapping;
 
 @SpringBootApplication
 public class SampleController {
